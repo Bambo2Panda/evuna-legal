@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 60" role="img" aria-label="Evuna">
+  <style>
+    .wm { font-family: 'Fraunces', 'Georgia', serif; font-weight: 350; fill: #2F332E; }
+  </style>
+  <rect x="0" y="6" width="48" height="48" fill="#5F6F52"/>
+  <rect x="12" y="16" width="24" height="3.5" fill="#F6F1E8"/>
+  <rect x="12" y="16" width="3.5" height="28" fill="#F6F1E8"/>
+  <rect x="12" y="28.5" width="15" height="3" fill="#F6F1E8"/>
+  <rect x="12" y="40.5" width="24" height="3.5" fill="#F6F1E8"/>
+  <text x="68" y="44" class="wm" font-size="44" letter-spacing="-1.5">Evuna</text>
+</svg>
