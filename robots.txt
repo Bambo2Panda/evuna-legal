@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bambo2panda.github.io/evuna-legal/sitemap.xml
